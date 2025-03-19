@@ -56,6 +56,7 @@ function Home() {
     <h2 className="text-[#1E3A8A] text-[24px] sm:text-[30px] mb-4 font-bold">
       Bhondawe Patil Public School
     </h2>
+    
 
     <div className="text-[14px] sm:text-[16px] text-justify font-serif leading-relaxed">
       <p>Welcome to the abode of intellect where the purpose of education is to equip the child with the most excellent technological proficiency.</p>
