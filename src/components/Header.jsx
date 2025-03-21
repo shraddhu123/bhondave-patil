@@ -11,7 +11,7 @@ function Header() {
       
       <div className='bg-secondary py-1  '>
         <div className='container mx-auto flex justify-between text-white font-bold text-xs'>
-        <p className='ml-8px'>Abhi@gmail.com</p>
+        <p className='ml-8px'>shraddha@gmail.com</p>
         <a href='#' className='mr-10px'>Instagram</a>
         </div>
        
